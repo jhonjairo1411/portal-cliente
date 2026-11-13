@@ -159,5 +159,13 @@
     "passwordHash": "$2a$10$9WITe4yu3UZKz.ASEhfYtOEgnmv2YrAYYV/Cs/TBk0DF8.ZJhY9ba",
     "balance": 7437002,
     "role": "user"
+  },
+  {
+    "id": "21",
+    "name": "LUIS DIAZ",
+    "email": "luisdiaz@bancolombia.com",
+    "passwordHash": "$2a$10$9WITe4yu3UZKz.ASEhfYtOEgnmv2YrAYYV/Cs/TBk0DF8.ZJhY9ba",
+    "balance": 7437002,
+    "role": "user"
   }
 ]
